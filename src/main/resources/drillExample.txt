@@ -1,0 +1,22 @@
+
+1. Stolica Polski to:
+a. Wieden
+b. Londyn
+>>>c. Warszawa
+d. Ateny
+
+2.* Na fladze Polski znajduja sie kolory:
+>>> a. bialy
+b. czarny
+>>> c. czerwony
+d. niebieski
+
+3.* Na fladze RPA znajduja sie kolory?
+>>> a. niebieski
+>>> b. czerwony
+c. różowy
+>>> d. czarny
+>>> e. biały
+>>> f. zielony
+>>> g. żółty
+h. fioletowy
